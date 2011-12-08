@@ -1,4 +1,4 @@
-package main;
+package mypackage;
 
 public class JavaClass2 {
 	private XtendClass1 xtendClass;

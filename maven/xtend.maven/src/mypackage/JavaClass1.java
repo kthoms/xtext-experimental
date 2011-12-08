@@ -1,4 +1,4 @@
-package main;
+package mypackage;
 
 public class JavaClass1 {
 

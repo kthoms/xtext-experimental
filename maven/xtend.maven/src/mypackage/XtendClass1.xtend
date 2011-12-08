@@ -1,4 +1,4 @@
-package main
+package mypackage
 
 import com.google.inject.Inject
 

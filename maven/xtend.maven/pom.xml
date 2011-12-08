@@ -112,6 +112,7 @@
 										<ignore></ignore>
 									</action>
 								</pluginExecution>
+								<!-- 
 								<pluginExecution>
 									<pluginExecutionFilter>
 										<groupId>
@@ -132,6 +133,7 @@
 										<ignore></ignore>
 									</action>
 								</pluginExecution>
+								 -->
 							</pluginExecutions>
 						</lifecycleMappingMetadata>
 					</configuration>
